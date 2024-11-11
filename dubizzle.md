@@ -115,7 +115,7 @@ The result for scraping a single property like this:
 	"description": "Super Deluxe Villa for sale in Helwan area in Sharjah <br> The land area is 8000 square feet, a corner on two streets, the second piece of the main street <br> The building area is 4600 square feet<br> The villa consists of:<br>5 master rooms, each room has a private bathroom with a dressing <br>4 on the top floor and one room on the ground floor <br>Two halls <br>big sitting room <br>A kitchen with two doors, internal and external. <br>A maid's room and an ironing room have an external door <br>The materials used in the villa are first class <br>Air conditioning duct general <br>Interlock from Arabic German does not change color <br><br>3 million dirhams required",
 	"isVerified": false,
 	"hasDLDHistory": false,
-	"dldValidationUrl": null,
+	"reraPermitUrl": null,
 	"addedOn": "November 6, 2023",
 	"agent": "mohamed",
 	"agencyName": "Al Wasl Estste",
